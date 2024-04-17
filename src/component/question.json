@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "options": ["London", "Paris", "Berlin", "Rome"],
+    "correctAnswer": "Paris"
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": ["William Shakespeare", "Jane Austen", "Charles Dickens", "Leo Tolstoy"],
+    "correctAnswer": "William Shakespeare"
+  },
+  {
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Mitochondria", "Ribosome", "Endoplasmic reticulum"],
+    "correctAnswer": "Mitochondria"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+    "correctAnswer": "Mars"
+  },
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["CO2", "CH4", "O2", "H2O"],
+    "correctAnswer": "H2O"
+  },
+  {
+    "question": "Who is credited with the invention of the telephone?",
+    "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Albert Einstein"],
+    "correctAnswer": "Alexander Graham Bell"
+  },
+  {
+    "question": "What is the largest mammal?",
+    "options": ["African Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "correctAnswer": "Blue Whale"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Fe", "Cu"],
+    "correctAnswer": "Au"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Pablo Picasso", "Leonardo da Vinci", "Vincent van Gogh", "Michelangelo"],
+    "correctAnswer": "Leonardo da Vinci"
+  },
+  {
+    "question": "What is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "correctAnswer": "Pacific Ocean"
+  }
+]
